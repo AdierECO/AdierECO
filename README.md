@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arturo Martinez Delgado</h1>
+<h1 align="center">Hi 👋, I'm Erick Adier Ortiz Cabrera</h1>
 <h3 align="center">Computer Systems Engineering Student.</h3>
 
 <h3 align="left">Connect with me:</h3>
