@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/erick.a.5/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Adier Ortiz" height="30" width="40" /></a>
- <a href="https://twitter.com" target="blank"><img align="center"
+ <a href="https://x.com/Adierortix" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="Adier Ortiz" height="30" width="40" /></a>
 </p>
