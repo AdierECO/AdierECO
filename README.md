@@ -31,10 +31,8 @@
 <br>
 
 <h3>Statistical Data :</h3>
-<p><img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AdierECO&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Adier Ortiz" 
-    bg_color=#808080/>
+<p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdierECO&layout=compact&langs_count=8&theme=algolia"/>
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdierECO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
