@@ -31,6 +31,7 @@
   🤝 I’m open to collaborating on tech projects, open-source contributions, and hackathons.<br>
   🚀 My goal is to become a full-stack developer and contribute to impactful tech projects.<br>
   ⚡ Fun fact: I enjoy solving logic puzzles and editing videos in my free time!
+  ✉️  You can shoot me an email at adierortix@gmai.com!
 </p>
 
 <br>
