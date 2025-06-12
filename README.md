@@ -15,7 +15,7 @@
   <a href="https://x.com/Adierortix" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="Adier Ortiz" height="30" width="40" /></a>
-  <a href="mailto:tu.correo@gmail.com" target="blank">
+  <a href="mailto:adierortix@gmail.com" target="blank">
   <img align="center"
        src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg"
        alt="Gmail" height="30" width="40" /></a>
