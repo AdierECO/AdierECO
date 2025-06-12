@@ -5,16 +5,16 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/arturo-martinez-768403351/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="arturo martinez" height="30" width="40" /></a>
+      alt="Adier Ortiz" height="30" width="40" /></a>
   <a href="https://www.facebook.com/arturomd4/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
   <a href="https://www.instagram.com/erick.a.5/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="arturo martinez" height="30" width="40" /></a>
+      alt="Adier Ortiz" height="30" width="40" /></a>
  <a href="https://twitter.com" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="arturo martinez" height="30" width="40" /></a>
+      alt="Adier Ortiz" height="30" width="40" /></a>
 </p>
 
 <br>
