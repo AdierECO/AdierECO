@@ -12,17 +12,36 @@
   <a href="https://www.instagram.com/erick.a.5/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Adier Ortiz" height="30" width="40" /></a>
- <a href="https://x.com/Adierortix" target="blank"><img align="center"
+  <a href="https://x.com/Adierortix" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="Adier Ortiz" height="30" width="40" /></a>
 </p>
 
 <br>
 
+<h3 align="left">About Me:</h3>
+<p align="left">
+  👨‍💻 I'm passionate about technology, software development, and learning new tools to build innovative solutions.<br>
+  🎓 I'm currently studying Computer Systems Engineering.<br>
+  🌱 I’m currently learning advanced JavaScript, backend development with Node.js, and mobile development with Flutter.<br>
+  🤝 I’m open to collaborating on tech projects, open-source contributions, and hackathons.<br>
+  🚀 My goal is to become a full-stack developer and contribute to impactful tech projects.<br>
+  ⚡ Fun fact: I enjoy solving logic puzzles and editing videos in my free time!
+</p>
+
+<br>
+
+<h3 align="left">My Projects:</h3>
+<ul>
+  <li><a href="https://github.com/AdierECO/memorama-game" target="_blank">🧠 Memorama Game</a> – A memory card game with customizable difficulty and player mode.</li>
+  <li><a href="https://github.com/AdierECO/edusphere-app" target="_blank">📘 Edusphere</a> – An educational platform to manage school activities, users, and content.</li>
+  <li><a href="https://github.com/AdierECO/tic-tac-toe" target="_blank">❌⭕ Tic Tac Toe</a> – A two-player game with a win/draw message system.</li>
+</ul>
+
+<br>
+
 <h3 align="left">Languages & Tools I Know:</h3>
 <p align="left">
-  
-  <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,py,java,js,html,vscode,django,androidstudio,flutter,postman,css,cs,bootstrap,cpp,github,react,sublime,tailwind,ts,visualstudio,nextjs,nodejs,dotnet"/>
   </a>
@@ -34,10 +53,4 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdierECO&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdierECO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
 </p>
-</p>
-
-
-
-<br>
