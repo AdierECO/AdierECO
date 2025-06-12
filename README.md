@@ -9,7 +9,7 @@
   <a href="https://www.facebook.com/arturomd4/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/arturomd4" target="blank"><img align="center"
+  <a href="https://www.instagram.com/erick.a.5/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="arturo martinez" height="30" width="40" /></a>
  <a href="https://twitter.com" target="blank"><img align="center"
