@@ -44,7 +44,7 @@
 <h3 align="left">Languages & Tools I Know:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,java,js,html,vscode,django,androidstudio,flutter,postman,css,cs,bootstrap,cpp,github,react,sublime,tailwind,ts,visualstudio,nextjs,nodejs,dotnet,supabase,prisma"/>
+    <img src="https://skillicons.dev/icons?i=git,py,java,js,html,vscode,django,androidstudio,dart,flutter,postman,css,cs,bootstrap,cpp,github,react,sublime,tailwind,ts,visualstudio,nextjs,nodejs,dotnet,supabase,prisma"/>
   </a>
 </p>
 
