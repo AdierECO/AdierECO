@@ -30,7 +30,7 @@
   🌱 I’m currently learning advanced JavaScript, backend development with Node.js, and mobile development with Flutter.<br>
   🤝 I’m open to collaborating on tech projects, open-source contributions, and hackathons.<br>
   🚀 My goal is to become a full-stack developer and contribute to impactful tech projects.<br>
-  ✉️ You can shoot me an email at adierortix@gmail.com
+  ✉️ You can shoot me an email at **adierortix@gmail.com**
 </p>
 
 <br>
@@ -47,7 +47,7 @@
 <h3 align="left">Languages & Tools I Know:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,java,js,html,vscode,django,androidstudio,flutter,postman,css,cs,bootstrap,cpp,github,react,sublime,tailwind,ts,visualstudio,nextjs,nodejs,dotnet"/>
+    <img src="https://skillicons.dev/icons?i=git,py,java,js,html,vscode,django,androidstudio,flutter,postman,css,cs,bootstrap,cpp,github,react,sublime,tailwind,ts,visualstudio,nextjs,nodejs,dotnet,supabase"/>
   </a>
 </p>
 
