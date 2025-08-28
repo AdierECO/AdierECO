@@ -24,15 +24,12 @@
 <br>
 
 <h3 align="left">About Me:</h3>
-<p align="left">
   👨‍💻 I'm passionate about technology, software development, and learning new tools to build innovative solutions.<br>
   🎓 I'm currently studying Computer Systems Engineering.<br>
   🌱 I’m currently learning advanced JavaScript, backend development with Node.js, and mobile development with Flutter.<br>
   🤝 I’m open to collaborating on tech projects, open-source contributions, and hackathons.<br>
   🚀 My goal is to become a full-stack developer and contribute to impactful tech projects.<br>
   ✉️ You can shoot me an email at: **adierortix@gmail.com**
-</p>
-
 <br>
 
 <h3 align="left">My Projects:</h3>
