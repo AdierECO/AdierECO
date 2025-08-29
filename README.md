@@ -34,9 +34,9 @@
 
 <h3 align="left">My Projects:</h3>
 <ul>
-  <li><a href="https://github.com/AdierECO/memorama-game" target="_blank">🧠 Memorama Game</a> – A memory card game with customizable difficulty and player mode.</li>
+  <li><a href="https://github.com/AdierECO/GAME-PUZZLE" target="_blank">🧠 Memorama Game</a> – A memory card game with customizable difficulty and player mode.</li>
   <li><a href="https://github.com/AdierECO/edusphere-app" target="_blank">📘 Edusphere</a> – An educational platform to manage school activities, users, and content.</li>
-  <li><a href="https://github.com/AdierECO/tic-tac-toe" target="_blank">❌⭕ Tic Tac Toe</a> – A two-player game with a win/draw message system.</li>
+  <li><a href="https://github.com/AdierECO/GAME-CAT" target="_blank">❌⭕ Gato/Tres en raya</a> – A two-player game with a win/draw message system.</li>
 </ul>
 
 <br>
