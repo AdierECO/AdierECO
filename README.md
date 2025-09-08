@@ -29,8 +29,7 @@
   🌱 I’m currently learning advanced JavaScript, backend development with Node.js, and mobile development with Flutter.<br>
   🤝 I’m open to collaborating on tech projects, open-source contributions, and hackathons.<br>
   🚀 My goal is to become a full-stack developer and contribute to impactful tech projects.<br>
-  ✉️ You can shoot me an email at: ## 
-adierortix@gmail.com ##
+  ✉️ You can shoot me an email at: ## adierortix@gmail.com ##
 <br>
 
 <h3 align="left">My Projects:</h3>
